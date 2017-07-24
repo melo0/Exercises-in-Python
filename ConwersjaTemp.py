@@ -3,7 +3,7 @@ st = 0.0
 celciusze = 0.0
 fahrenheit = 0.0
 kelvin = 0.0
-st = float(input("podaj steraturę na zewnątrz: "))
+st = float(input("podaj tęperaturę na zewnątrz: "))
 print("Celcjusza - 1")
 print("Kelvin - 2")
 print("Fahrenheit - 3")
