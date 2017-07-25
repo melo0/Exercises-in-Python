@@ -1,0 +1,10 @@
+# numbers wich are divisible by 7, but not by 5
+
+zmienna = []
+for i in range(2000, 3200):
+    if i % 5 != 0:
+        if i % 7 ==0:
+            zmienna.append(str(i) + ', ')
+for x in zmienna:
+    print(x)
+            
